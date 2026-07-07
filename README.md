@@ -93,7 +93,3 @@ npm run test
 # End-to-end tests
 npm run test:e2e
 ```
-
-## 📜 License
-
-This project is [MIT licensed](LICENSE).
